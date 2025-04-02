@@ -1,8 +1,8 @@
 # Task Manager - Full Stack Kanban Board
 
-![Task Manager Screenshot]('./screenshot 1.png')
-![Task Manager Screenshot]('./screenshot 2.png')
-![Task Manager Screenshot]('./screenshot 3.png')
+![Task Manager Screenshot](./screenshot1.png)
+![Task Manager Screenshot](./screenshot2.png)
+![Task Manager Screenshot](./screenshot3.png)
 
 A complete Kanban-style task management application built with a **Laravel (GraphQL API)** backend and a **Vue.js** frontend, dockerized for easy development and deployment.
 
